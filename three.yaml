@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Test for HTML Injection
-  description: <ins>test</ins>
+  description: This is a bold text: **HELLO FROM MARKDOWN**
 paths:
   /accounts:
     get:
